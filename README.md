@@ -5,3 +5,4 @@ This is amzon signup page only.<br>
 This will be linked with amazon sign in page and form validation functions.
 
 Update 1 - Image source fixed. 
+Update 2 - Form validation added to the sign up page.
