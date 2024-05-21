@@ -12,6 +12,8 @@ body,html{
     overflow: hidden;
 }
 #logo{
+    height: 100px;
+    width: 300px;
     margin-top: 10%;
     mix-blend-mode: multiply;
     filter:contrast(1);
