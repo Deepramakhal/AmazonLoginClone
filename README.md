@@ -1,4 +1,4 @@
-This is a basic amazon sign up page clone using html and css only.
+This is a basic amazon sign up page clone project using html css and js.
 <br>
 Author - Deepra Makhal <br>
 This is amzon signup page only.<br>
